@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iganza-roy
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning software engineering at ALX
-- 💞️ I’m looking to collaborate on software developmentprojects
+- 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me iganzaroy55@gmail.com
 
 <!---
