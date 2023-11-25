@@ -1,4 +1,4 @@
-[![MasterHead](https://www.123rf.com/photo_102988806_vector-line-web-concept-for-programming-linear-web-banner-for-coding.html)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Roy Kibata</h1>
 <h3 align="center">A passionate software engineering student at ALX</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
