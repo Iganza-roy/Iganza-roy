@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I love Ice cream**
 
-<p><strong>In pursuit of excellence and honor!*</strong></p>
+<p><strong>In pursuit of excellence and honor!</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
