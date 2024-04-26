@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Roy Kibata</h1>
 <h3 align="center">A passionate software engineering student at ALX</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Iganza-roy/Personal-practice_tasks/blob/main/intros/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(1).png">
+<img align="right" alt="Coding" width="400" src="https://github.com/Iganza-roy/Iganza-roy/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(1).png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iganza-roy&label=Profile%20views&color=0e75b6&style=flat" alt="iganza-roy" /> </p>
 
