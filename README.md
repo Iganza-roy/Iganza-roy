@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **iganzaroy55@gmail.com**
 
-- ⚡ Fun fact **I love Ice cream**
+- ⚡ Fun fact **There are over 700 different programming languages**
 
 <p><strong>In pursuit of excellence and honor!</strong></p>
 
