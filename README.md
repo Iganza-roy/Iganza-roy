@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iganzaroy" target="blank"><img src="https://img.shields.io/twitter/follow/iganzaroy?logo=twitter&style=for-the-badge" alt="iganzaroy" /></a> </p>
 
-- 🔭 I’m currently working on [various python projects](https://github.com/Iganza-roy/alx-low_level_programming)
+- 🔭 I’m currently working on various React projects
 
 - 🌱 I’m currently learning **Software engineering at alx**
 
