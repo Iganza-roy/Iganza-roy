@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Iganza-roy/My_portfolio/blob/main/images/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Iganza-roy/Iganza-roy/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Roy Kibata</h1>
 <h3 align="center">A passionate software engineering student at ALX</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/Iganza-roy/Iganza-roy/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(1).png">
