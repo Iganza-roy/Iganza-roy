@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Iganza-roy/Iganza-roy/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Roy Kibata</h1>
 <h3 align="center">A passionate software engineering student at ALX</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Iganza-roy/Iganza-roy/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(1).png">
+<img align="right" alt="Coding" width="400" src="https://github.com/Iganza-roy/Iganza-roy/blob/main/White%20Green%20Neon%20Modern%20Marketing%20Specialist%20LinkedIn%20Banner%20(2).jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iganza-roy&label=Profile%20views&color=0e75b6&style=flat" alt="iganza-roy" /> </p>
 
