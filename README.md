@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Software engineering at alx**
 
-- 💬 Ask me about **Python,, mysql, Javascript, reactjs, html and css**
+- 💬 Ask me about **Javascript, reactjs, Python, html and css**
 
 - 📫 How to reach me **iganzaroy55@gmail.com**
 
